@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Segoe UI';
+    background-image:url("ManagerPage1.jpg");
+    background-size:1600px 750px;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+   color:white;
+   padding: 2rem;
+   display: flex;
+   justify-content:space-around;
+}
+.sara{
+
+  
+}
